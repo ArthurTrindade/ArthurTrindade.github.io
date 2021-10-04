@@ -19,7 +19,6 @@ a {
     font-weight: 500;
     text-decoration: none;
     margin-right: 30px;
-
 }
 
 a::before {
@@ -28,9 +27,7 @@ a::before {
     width: 10px;
     height: 10px;
     margin-right: 10px;
-
 }
-
 
 #button {
     display: inline-block;
@@ -38,5 +35,8 @@ a::before {
     padding: 18px 20px;
     box-shadow: 5px 5px 0px #000;
     margin-right: 0;
+}
 
+.texto-projetos {
+    color: #000;
 }
